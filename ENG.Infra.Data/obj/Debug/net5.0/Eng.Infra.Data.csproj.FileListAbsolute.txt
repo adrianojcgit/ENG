@@ -1,4 +1,6 @@
 C:\Adriano\Projetos\ENG\ENG.Infra.Data\bin\Debug\net5.0\Eng.Infra.Data.deps.json
+C:\Adriano\Projetos\ENG\ENG.Infra.Data\bin\Debug\net5.0\Eng.Infra.Data.runtimeconfig.json
+C:\Adriano\Projetos\ENG\ENG.Infra.Data\bin\Debug\net5.0\Eng.Infra.Data.runtimeconfig.dev.json
 C:\Adriano\Projetos\ENG\ENG.Infra.Data\bin\Debug\net5.0\Eng.Infra.Data.dll
 C:\Adriano\Projetos\ENG\ENG.Infra.Data\bin\Debug\net5.0\Eng.Infra.Data.pdb
 C:\Adriano\Projetos\ENG\ENG.Infra.Data\bin\Debug\net5.0\Eng.Domain.dll
@@ -12,4 +14,5 @@ C:\Adriano\Projetos\ENG\ENG.Infra.Data\obj\Debug\net5.0\Eng.Infra.Data.csproj.Co
 C:\Adriano\Projetos\ENG\ENG.Infra.Data\obj\Debug\net5.0\Eng.Infra.Data.dll
 C:\Adriano\Projetos\ENG\ENG.Infra.Data\obj\Debug\net5.0\refint\Eng.Infra.Data.dll
 C:\Adriano\Projetos\ENG\ENG.Infra.Data\obj\Debug\net5.0\Eng.Infra.Data.pdb
+C:\Adriano\Projetos\ENG\ENG.Infra.Data\obj\Debug\net5.0\Eng.Infra.Data.genruntimeconfig.cache
 C:\Adriano\Projetos\ENG\ENG.Infra.Data\obj\Debug\net5.0\ref\Eng.Infra.Data.dll

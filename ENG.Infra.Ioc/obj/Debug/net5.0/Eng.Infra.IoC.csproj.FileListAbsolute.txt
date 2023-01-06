@@ -17,3 +17,6 @@ C:\Adriano\Projetos\ENG\ENG.Infra.IoC\obj\Debug\net5.0\Eng.Infra.IoC.dll
 C:\Adriano\Projetos\ENG\ENG.Infra.IoC\obj\Debug\net5.0\refint\Eng.Infra.IoC.dll
 C:\Adriano\Projetos\ENG\ENG.Infra.IoC\obj\Debug\net5.0\Eng.Infra.IoC.pdb
 C:\Adriano\Projetos\ENG\ENG.Infra.IoC\obj\Debug\net5.0\ref\Eng.Infra.IoC.dll
+C:\Adriano\Projetos\ENG\ENG.Infra.IoC\bin\Debug\net5.0\Eng.Infra.IoC.runtimeconfig.json
+C:\Adriano\Projetos\ENG\ENG.Infra.IoC\bin\Debug\net5.0\Eng.Infra.IoC.runtimeconfig.dev.json
+C:\Adriano\Projetos\ENG\ENG.Infra.IoC\obj\Debug\net5.0\Eng.Infra.IoC.genruntimeconfig.cache
