@@ -80,3 +80,4 @@ C:\Adriano\Projetos\ENG\ENG.WebUI\obj\Debug\net5.0\ENG.WebUI.genruntimeconfig.ca
 C:\Adriano\Projetos\ENG\ENG.WebUI\obj\Debug\net5.0\ref\ENG.WebUI.dll
 C:\Adriano\Projetos\ENG\ENG.WebUI\bin\Debug\net5.0\Humanizer.dll
 C:\Adriano\Projetos\ENG\ENG.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Adriano\Projetos\ENG\ENG.WebUI\bin\Debug\net5.0\AutoMapper.dll

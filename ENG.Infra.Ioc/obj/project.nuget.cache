@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mhe4ynUsVR9ElBR0YravFrEZpHQI5EYuykaJviAYJaVbuYTKEEoTg3g033MY6LP95TF9QliT2YXG6+CtPgo+Mg==",
+  "dgSpecHash": "szAAUweMHM/xESF7BJZ0uaDmyTweo6wVL0PTYiTIbx0rtMi4WYbklg+Lotc+WQ4R4pANDYzQjhnCwDlnGnjjng==",
   "success": true,
   "projectFilePath": "C:\\Adriano\\Projetos\\ENG\\ENG.Infra.IoC\\Eng.Infra.IoC.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\adria\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+IzJXN5mKbnTSsd3YiV2VYqLlifYYlXgQlk2NVjLZck93khf6IqXVvGhBMJAD2/75HJuPiwKowCFE0SJ1HF8TA==",
+  "dgSpecHash": "ZREYZQa6R7/5krPl0hr7hocwl305opKF63d1YAreYAfil0NgD4O0kYjDAw1X65eUS1MsMHyD4QoH9o/Dq3uTQw==",
   "success": true,
   "projectFilePath": "C:\\Adriano\\Projetos\\ENG\\ENG.WebUI\\ENG.WebUI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\adria\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
