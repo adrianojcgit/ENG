@@ -9,6 +9,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
+using Eng.Application.Interfaces;
+using Eng.Application.Mappings;
+using Eng.Application.Services;
 
 namespace ENG.Infra_Ioc
 {
@@ -23,7 +26,9 @@ namespace ENG.Infra_Ioc
 
 			services.AddScoped<ICategoryRepository, CategoryRepository>();
 			services.AddScoped<IProductRepository, ProductRepository>();
-
+			services.AddScoped<IProductService, ProductService>();
+			services.AddScoped<ICategoryService, CategoryService>();
+			services.AddAutoMapper(typeof(DomainToDTOMappingProfile));
 			return services;
 		}
 	}
