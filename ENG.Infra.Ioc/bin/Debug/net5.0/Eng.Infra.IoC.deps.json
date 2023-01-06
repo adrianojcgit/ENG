@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Eng.Infra.IoC/1.0.0": {
+        "dependencies": {
+          "Eng.Application": "1.0.0",
+          "Eng.Domain": "1.0.0",
+          "Eng.Infra.Data": "1.0.0"
+        },
+        "runtime": {
+          "Eng.Infra.IoC.dll": {}
+        }
+      },
+      "Eng.Application/1.0.0": {
+        "dependencies": {
+          "Eng.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Eng.Application.dll": {}
+        }
+      },
+      "Eng.Domain/1.0.0": {
+        "runtime": {
+          "Eng.Domain.dll": {}
+        }
+      },
+      "Eng.Infra.Data/1.0.0": {
+        "dependencies": {
+          "Eng.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Eng.Infra.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Eng.Infra.IoC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Eng.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Eng.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Eng.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

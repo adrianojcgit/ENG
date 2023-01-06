@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>ENG.Infra_Ioc</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ENG.Application\Eng.Application.csproj" />
+    <ProjectReference Include="..\ENG.Domain\Eng.Domain.csproj" />
+    <ProjectReference Include="..\ENG.Infra.Data\Eng.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

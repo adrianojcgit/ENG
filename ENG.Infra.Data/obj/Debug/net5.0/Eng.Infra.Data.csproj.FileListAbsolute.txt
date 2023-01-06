@@ -1,0 +1,15 @@
+C:\Adriano\Projetos\ENG\ENG.Infra.Data\bin\Debug\net5.0\Eng.Infra.Data.deps.json
+C:\Adriano\Projetos\ENG\ENG.Infra.Data\bin\Debug\net5.0\Eng.Infra.Data.dll
+C:\Adriano\Projetos\ENG\ENG.Infra.Data\bin\Debug\net5.0\Eng.Infra.Data.pdb
+C:\Adriano\Projetos\ENG\ENG.Infra.Data\bin\Debug\net5.0\Eng.Domain.dll
+C:\Adriano\Projetos\ENG\ENG.Infra.Data\bin\Debug\net5.0\Eng.Domain.pdb
+C:\Adriano\Projetos\ENG\ENG.Infra.Data\obj\Debug\net5.0\Eng.Infra.Data.csproj.AssemblyReference.cache
+C:\Adriano\Projetos\ENG\ENG.Infra.Data\obj\Debug\net5.0\Eng.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Adriano\Projetos\ENG\ENG.Infra.Data\obj\Debug\net5.0\Eng.Infra.Data.AssemblyInfoInputs.cache
+C:\Adriano\Projetos\ENG\ENG.Infra.Data\obj\Debug\net5.0\Eng.Infra.Data.AssemblyInfo.cs
+C:\Adriano\Projetos\ENG\ENG.Infra.Data\obj\Debug\net5.0\Eng.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Adriano\Projetos\ENG\ENG.Infra.Data\obj\Debug\net5.0\Eng.Infra.Data.csproj.CopyComplete
+C:\Adriano\Projetos\ENG\ENG.Infra.Data\obj\Debug\net5.0\Eng.Infra.Data.dll
+C:\Adriano\Projetos\ENG\ENG.Infra.Data\obj\Debug\net5.0\refint\Eng.Infra.Data.dll
+C:\Adriano\Projetos\ENG\ENG.Infra.Data\obj\Debug\net5.0\Eng.Infra.Data.pdb
+C:\Adriano\Projetos\ENG\ENG.Infra.Data\obj\Debug\net5.0\ref\Eng.Infra.Data.dll
